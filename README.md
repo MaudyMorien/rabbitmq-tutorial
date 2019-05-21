@@ -5,4 +5,5 @@ RabbitMQ is a message broker: it accepts and forwards messages. You can think ab
 #Hello World
 
 npm install amqplib
+docker-compose up
 
